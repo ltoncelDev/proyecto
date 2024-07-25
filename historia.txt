@@ -1,2 +1,7 @@
 Hola mi nombre es Luis Toncel
+<<<<<<< HEAD
 Soy ingeniero de sistemas y desarrollador backend.
+=======
+
+Tengo 2 hijos u soy una calilla...
+>>>>>>> development
